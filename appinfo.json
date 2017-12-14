@@ -1,0 +1,13 @@
+{
+    "vendor": "RÚV",
+    "largeIcon": "assets/largeicon.png",
+    "iconColor": "#034EA1",
+    "appDescription": "RÚV 1 í beinni",
+    "icon": "assets/icon.png",
+    "main": "index.html",
+    "id": "com.ruv.app",
+    "title": "RÚV",
+    "type": "web",
+    "version": "0.0.1",
+    "uiRevision":2
+}
